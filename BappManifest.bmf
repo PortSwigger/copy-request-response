@@ -3,8 +3,8 @@ ExtensionType: 1
 Name: Copy Request Response
 RepoName: copy-request-response
 ScreenVersion: 2.4.0
-SerialVersion: 29
-MinPlatformVersion: 23
+SerialVersion: 30
+MinPlatformVersion: 28
 ProOnly: False
 Author: Tobias Hort-Giess / Emanuel Duss / Compass Security
 ShortDescription: Enables quick copying of HTTP requests and responses.
